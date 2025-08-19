@@ -1,1 +1,1 @@
-Escaneo del documento con el análisis algebraico hecho para simplificar las funciones lógicas, previo a la simplificación por unos y por ceros.
+Escaneo del documento con el análisis algebraico hecho para simplificar las funciones lógicas, junto con la simplificación por unos y por ceros.
