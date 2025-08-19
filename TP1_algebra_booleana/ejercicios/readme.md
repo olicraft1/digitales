@@ -1,1 +1,1 @@
-Ejercicios, pasados a formato para Win-Logic-Lab
+Ejercicios, pasados a formato de ecuación para Win-Logic-Lab
