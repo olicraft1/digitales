@@ -1,0 +1,1 @@
+Trabajo Práctico sobre "Generación de Señales" de Quinto Año de Secundaria en Electrónica.
