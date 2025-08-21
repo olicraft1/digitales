@@ -1,2 +1,1 @@
-Trabajo Práctico de "Carga y Descarga de Capacitores", así como también un programa graficador diseñado específicamente para curvas de carga y descarga.
-Los ejercicios fueron esquematizados utilizando LTSpice, algunos tienen circuitos equivalentes a efectos de claridad en el desarrollo.
+Conjunto de proyectos y trabajos prácticos desarrollados en la materia "Teoría de Circuitos" durante Quinto y Sexto Año de Secundaría Técnica.
